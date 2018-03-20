@@ -3,3 +3,4 @@ sec commit added
 the beta version
 this line added to second branch
 thest 1
+test 2
