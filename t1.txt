@@ -1,4 +1,5 @@
 first commot
 sec commit added
 the beta version
- this line added to second branch
+this line added to second branch
+this one in master branch
